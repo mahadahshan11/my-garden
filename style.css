@@ -1,0 +1,42 @@
+.flowerBox{
+    border-style: dotted;
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 100%;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+.saveBtn {
+    
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding: 15px 23px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.saveBtn :hover{
+    background-color: darkblue;
+}
+footer{
+    height: 300px;
+    background-color: cornflowerblue;
+    text-align: center;
+    width: 100%;
+}
